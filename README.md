@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lia</h1>
 <h3 align="center">A passionate software engineering student from Bangladesh</h3>
-<img align="center" alt="Coding" width="400" src="https://images.assetsdelivery.com/compings_v2/shaihalud/shaihalud1808/shaihalud180800082.jpg">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusrat-lia" alt="nusrat-lia" /></a> </p>
 
-- 🔭 I’m currently working on [Tranxac](https://github.com/NusRAT-LiA/Tranxac)
+- 🔭 I’m currently working on [Blockchain_in_Cpp](https://github.com/NusRAT-LiA/Blockchain_in_Cpp)
 
 - 🌱 I’m currently learning **DApp Development , Full-stack Development**
 
@@ -24,4 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nusrat-lia&show_icons=true&locale=en" alt="nusrat-lia" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nusrat-lia&" alt="nusrat-lia" /></p>
-
