@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lia</h1>
 <h3 align="center">Aspiring Software Engineer | Web3 enthusiast</h3>
-<div style="text-align: center;">
-  <img src="https://i.ibb.co/pJNdPf5/nusrat-Jahan-Lia.png" alt="nusrat-Jahan-Lia" border="0" style="display: inline-block;"/>
-</div>
+  <img src="https://i.ibb.co/pJNdPf5/nusrat-Jahan-Lia.png" alt="nusrat-Jahan-Lia" border="0" class="center"/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusrat-lia" alt="nusrat-lia" /></a> </p>
 
 - 🌱 I’m currently learning **DApp Development , Full-stack Development**
