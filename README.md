@@ -2,11 +2,6 @@
 <h3 align="center">ML/AI research fellow and dev | Web3 enthusiast | Unity Developer </h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nusrat-lia" alt="nusrat-lia" /></a> </p>
 
-- 🌱 I’m currently learning **DApp Development , Full-stack Development**
-
-- 💬 Ask me about **Blockchain , Solidity , ReactJs , NodeJs , Unity , Web3**
-
-- 📫 How to reach me **nusratliya19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
