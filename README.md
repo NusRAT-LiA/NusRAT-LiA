@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lia</h1>
-<h3 align="center">ML/AI research enthusiast and dev | Web3 enthusiast | Unity Developer </h3>
+<h3 align="center">AI research and dev | Web3 enthusiast | Unity Developer </h3>
 
 
 <h3 align="left">Connect with me:</h3>
